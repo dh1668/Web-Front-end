@@ -1,0 +1,33 @@
+Project tools
+-	Web app reference, Architecture(기술 stack 도시)
+app.cloudcraft.co
+-	마인드맵 작성, 조직도, 분석도
+gitmind.com
+-	UI/UX design, Figma
+figma.com
+-	Controller API 설계
+swagger.io
+-	Database table 설계
+Aquerytool.com
+-	React bootstrap 라이브러리(그래프 라이브러리 등)
+mdbootstrap.com
+-	문서 작성, 계획, 협업
+notion.so
+-	UI 라이브러리
+mui.com
+-	Front-end 개발자 도구
+codepen.io
+-	Icon image 모음
+flaticon.com
+-	React 개발자 도구
+https://oreil.ly/Or3pH
+
+
+Project 결과물
+Gantt chart
+Use Case diagram, Class diagram
+Database 설계: ERD
+API 설계
+UI 스토리 보드
+Project 결과 PPT
+
